@@ -10,3 +10,4 @@ Documentation update.
 <!-- 9432 -->
 ## Note 3105
 Documentation update.
+Entry 4228: minor update.
