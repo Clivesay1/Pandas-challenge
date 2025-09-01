@@ -15,3 +15,4 @@ Entry 4228: minor update.
 Documentation update.
 ## Note 1180
 Documentation update.
+Entry 7588: minor update.
